@@ -1,5 +1,7 @@
 ## Welcome to my profile! 👋
+
 I am currently starting my adventure with programming and hope to describe more in this profile in the future. 👨‍💻
+
 I wish you a pleasant and successful day. ✨
 
 
