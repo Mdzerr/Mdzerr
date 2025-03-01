@@ -1,6 +1,7 @@
 ## Welcome to my profile
 I am currently starting my adventure with programming and hope to describe more in this profile in the future.
 I wish you a pleasant and successful day.
+
 ![images](https://github.com/user-attachments/assets/d412b637-19dd-4489-a6e7-c7d0d8662db8)
 
 <!--
